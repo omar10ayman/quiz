@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quiz/Data/all.dart';
-import 'package:quiz/Data/quizQuetions.dart';
+import 'package:quiz/Data/quizquetions.dart';
 import 'package:quiz/models/result.dart';
 import 'package:quiz/themes.dart';
 
